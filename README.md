@@ -23,6 +23,9 @@ OpenAI Codex CLIを使用しました。
 ### 4. チュートリアルの実装
 ### 5. HUD、エフェクト、サウンド強化
 
+# ライセンス
+MIT
+
 # 関連URL
 - [使用したOpenAIのGPT-5コーディング例(asteroid-game) | OpenAI](https://github.com/openai/gpt-5-coding-examples/blob/main/examples/asteroid-game.yaml)
 - [GPT-5 が登場 | OpenAI](https://openai.com/ja-JP/gpt-5/)
