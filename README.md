@@ -2,7 +2,7 @@
 OpenAIの公式GPT-5コーディング例（asteroid-game）を使用して開発した小惑星ゲームとなります。
 
 # デモ
-[Demo | NEON ASTRO](https://miya123123.github.io/asteroid-game_gpt-5-coding-examples/)
+[Demo | NEON ASTRO](https://miya123123.github.io/neon-astro/)
 
 # 使用技術
 ### LLM
@@ -14,7 +14,7 @@ OpenAI Codex CLIを使用しました。
 ### 1. バグ修正
 モバイル対応していない、ボム回復/ライフ回復が機能しないバグを修正します。
 
-### 2. パワーアップ
+### 2. パワーアップ機能の実装
 シールド／ブレッド/ホーミングミサイル/スピードアップなどの機能を実装します。
 
 ### 3. オブジェクトプーリング導入
